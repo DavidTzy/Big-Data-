@@ -3,7 +3,7 @@ Some big data homework on things like language model, graph analysis,relational 
 
 General Topic including(with some brief intro):
 
-(1)PMI analysis(pointwise mutual information): If two events x and y are independent, their PMI will be zero. A positive PMI indicates that x and y are more likely to co-occur than they would be if they were independent.   
+(1)PMI analysis(pointwise mutual information) on Shakespeare's masterpieces: If two events x and y are independent, their PMI will be zero. A positive PMI indicates that x and y are more likely to co-occur than they would be if they were independent.   
 Similarly, a negative PMI indicates that x and y are less likely to co-occur.   The PMI of events x and y is given by
 
 PMI(x,y) = log（p(x,y)/p(x)p(y)）
@@ -11,7 +11,7 @@ PMI(x,y) = log（p(x,y)/p(x)p(y)）
 where p(x) and p(y) are the probabilities of occurrence of events x and y, and p(x,y) is the probability of co-occurrence of x and y.
 
 
-(2)Personalized Pagerank: PageRank is one of the methods Google uses to determine a page’s relevance or importance,details and algorithms can be found in section 5.3 in Lin's book(Data-Intensive Text Processing
+(2)Personalized Pagerank on  Gnutella server network: PageRank is one of the most important methods Google uses to determine a page’s relevance or importance,details and algorithms can be found in section 5.3 in Lin's book(Data-Intensive Text Processing
 with MapReduce)
 
 Personalized page rank is like ordinary page rank except:
