@@ -1,5 +1,4 @@
-Some big data homework on things like language model, graph analysis,relational data base analysis and machine learning(classfication). Everything is in PySpark, plz don't copy if u are in that class.
-
+Some big data practices like language model, graph analysis,relational data base analysis and machine learning(classfication). Everything is in PySpark.
 
 General Topic including(with some brief intro):
 
